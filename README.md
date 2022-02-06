@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MmakolaMC
+- 👋 Hi, I’m @MmakolaMC.
 
 <!---
 MmakolaMC/MmakolaMC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
